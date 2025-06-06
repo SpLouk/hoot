@@ -13,3 +13,7 @@ Please email <david@loukidelis.com> for support or to report bugs.
 ## Screenshots
 
 ![Screenshot](/resources/hoot-screenshot.PNG)
+
+## Privacy
+
+[Privacy policy](./privacy.md)
