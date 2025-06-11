@@ -17,3 +17,7 @@ Please email <david@loukidelis.com> for support or to report bugs.
 ## Privacy
 
 [Privacy policy](./privacy.md)
+
+## License Agreement
+
+[License agreement](./eula.md)
