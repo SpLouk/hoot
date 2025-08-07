@@ -1,10 +1,12 @@
 # Welcome to Hoot
 
-**Hoot** is a social app designed to spark meaningful conversations with friends around prompts.
+[Hoot](https://apps.apple.com/ca/app/hoot-of-the-day/id6743980346) is a social app designed to spark meaningful conversations with friends around prompts.
 
 Hoot allows friends to submit and vote on prompts. Three times a week, everyone answers the same prompt question.
 This creates a shared experience, as you see how your friends answered the question. Friends can reply to each others responses.
 It's a simple yet powerful way to engage with friends and family.
+
+You can read more about the technical journey of building Hoot on my blog [here.](https://loukidelis.com/2025/07/22/on-building-hoot.html)
 
 ## Need More Help?
 
